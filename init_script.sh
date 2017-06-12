@@ -20,3 +20,4 @@ then
 else
     echo "Git is needed to proceed, please install GIT first";
 fi
+
