@@ -1,1 +1,0 @@
-write-host "Olá! Mundo."
