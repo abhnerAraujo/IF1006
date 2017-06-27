@@ -68,4 +68,7 @@ then
         git clone "https://github.com/jfsc/spring-petclinic.git";
         echo "repository was clonned with success."
     fi
+
+    cd spring-petclinic;
+    mvn package;
 fi
