@@ -40,7 +40,9 @@ o comando em si significa:
 `sudo docker run -i -t --expose=IP_PARA_ACESSO_PUBLICO -p IP_PARA_ACESSO_PUBLICO:PORTA_ONDE_APP_ESTA_RODANDO_DENTRO_DO_DOCKER -h IP_INTERNO_GOOGLE_CLOUD IMAGEM`
 
 ### 4 Passo:
-Sonar foi configurado e testado, porem foi separado do script
+Sonar e sonnar runner foram configurados e testados, porem isso foi separado do script
+
+foi adicionado a dependencia no pom e executado `sonar-runner -X` dentro da pasta DEV, gerando assim a analise
 
 Docker hub: https://hub.docker.com/r/ianfireman/spring-petclinic/
 
