@@ -1,5 +1,13 @@
 # SCRIPT IF1006
 
+Equipe:
+
+Ian Marino Lavenere Bastos Fireman (imlbf)
+
+Abhner Fellipe Gomes Araujo (afga)
+
+Pedro Vinicius Batista Clericuzi (pvbc)
+
 ### 1 Passo:
 Rodar comando de permissão para o script: `sudo chmod 777 script.sh`
 ### 2 Passo:
